@@ -1,1 +1,0 @@
-# Solving-numerical-problems-using-C-
